@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm  Malaz al Mahdi</h1>
 
+<div align="center">
+  <img src="images/profile.jpg" alt="Malaz al Mahdi" width="200" style="border-radius: 50%;"/>
+</div>
+
+<p align="center">
+  <b>AI & Data Science Master Student @ Goethe Universität and Research Assistant @ Goethe University</b>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Backend+Developer;Data+Scientist" alt="Typing SVG" />
 </p>
