@@ -7,13 +7,13 @@
 <br>
 
   <p align="center">
-    <a href="https://github.com/malaz-al-Mahdi"> <!-- Google Me -->
+    <a href="https://github.com/Malaz-al-Mahdi"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/malaz-al-Mahdi"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=malaz-al-Mahdi&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+    <a href="https://github.com/Malaz-al-Mahdi"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=Malaz-al-Mahdi&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
   </p>
 
   <p align = "center">
@@ -71,9 +71,9 @@
   <!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> -->
 
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malaz-al-Mahdi/malaz-al-Mahdi/output/pacman-contribution-graph-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malaz-al-Mahdi/malaz-al-Mahdi/output/pacman-contribution-graph.svg">
-   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/malaz-al-Mahdi/malaz-al-Mahdi/output/pacman-contribution-graph.svg">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malaz-al-Mahdi/Malaz-al-Mahdi/output/pacman-contribution-graph-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Malaz-al-Mahdi/Malaz-al-Mahdi/output/pacman-contribution-graph.svg">
+   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Malaz-al-Mahdi/Malaz-al-Mahdi/output/pacman-contribution-graph.svg">
  </picture>
 
 
